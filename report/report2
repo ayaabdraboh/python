@@ -1,0 +1,12 @@
+Can we do overloading in Python ?
+
+class A:
+    def fun1(x):    
+        print ('1')
+    def fun1(z,y):
+        print ('2')
+
+in python overloading is not an applied concept
+
+
+
